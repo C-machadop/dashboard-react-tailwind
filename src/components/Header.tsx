@@ -7,7 +7,7 @@ export const Header = () => {
     setTheme((prevTheme) => (prevTheme === "light" ? "dark" : "light"));
   };
   return (
-    <header className="header bg-white  border-b border-gray-200  px-6 py-4 sticky top-0 z-40">
+    <header className="row-start-1 bg-white  border-b border-gray-200  px-6 py-4 sticky top-0 z-40">
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-bold text-gray-900 ">Dashboard</h1>

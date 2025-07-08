@@ -44,19 +44,19 @@ export const cards: CardData[] = [
     title: "Sales Analytics",
     value: "Interactive Chart",
     size: "large",
-    color: "bg-white dark:bg-gray-800",
+    color: "bg-white",
   },
   {
     title: "Recent Activity",
     value: "Activity Feed",
     size: "medium",
-    color: "bg-white dark:bg-gray-800",
+    color: "bg-white",
   },
   {
     title: "Top Products",
     value: "Product List",
     size: "medium",
-    color: "bg-white dark:bg-gray-800",
+    color: "bg-white",
   },
   {
     title: "System Status",

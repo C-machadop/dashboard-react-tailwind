@@ -22,7 +22,7 @@ export const SideBar = () => {
     { icon: PanelLeft, label: "Reports", active: false },
   ];
   return (
-    <aside className="sidebar bg-white  border-r border-gray-200  p-6">
+    <aside className=" bg-white  border-r border-gray-200  p-6">
       <div className="mb-8">
         <h2 className="text-xl font-bold">AdminGrid</h2>
       </div>
